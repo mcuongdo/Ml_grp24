@@ -22,7 +22,7 @@ cd Child Problematic Internet RandomForest
 
 ## Contributors
 
-This repository was made by three VNU-UET students:
+This repository was made by two VNU-UET students:
 
 [Do Minh Cuong](https://github.com/mcuongdo)
 
